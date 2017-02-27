@@ -1,6 +1,6 @@
 {
   "name": "bootstrapcalendar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Fork of Xero's bootstrapcalendar. Adds NPM package.",
   "main": "bootstrap_calendar/js/bootstrap_calendar.js",
   "scripts": {

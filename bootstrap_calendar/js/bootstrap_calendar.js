@@ -71,7 +71,7 @@
                 var dateObj = new Date();
                 //check for date input
                 var dateText = elem.data('date');
-                if (dateText!= ""){
+                if (dateText && dateText!= ""){
                     if (validateDate(dateText)){
                         var dateTextArray = dateText.split("/");
                         //two digit years
