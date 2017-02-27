@@ -1,0 +1,19 @@
+{
+  "name": "bootstrapcalendar",
+  "version": "0.0.1",
+  "description": "Fork of Xero's bootstrapcalendar. Adds NPM package.",
+  "main": "bootstrap_calendar/js/bootstrap_calendar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peder/bootstrap_calendar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peder/bootstrap_calendar/issues"
+  },
+  "homepage": "https://github.com/peder/bootstrap_calendar#readme"
+}
